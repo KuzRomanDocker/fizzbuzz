@@ -1,2 +1,1 @@
-# fizzbuzz
-fizzbuzz
+Write a function, fizzbuzz, that takes a single integer as input.   For every number inclusively between one and the number, print each number.   Three exceptions:   - Any number evenly divisible by three is instead called "fizz".   - Any number evenly divisible by five is called "buzz".   - Any number that is both is called "fizzbuzz".   Expectations:   - Input will be a natural number. No input number will be less than 1.   - Input will not likely be larger than 9999.
